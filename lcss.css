@@ -1,0 +1,72 @@
+html body{
+    padding: 0;
+    margin: 0;
+    font-family: verdana, sans-serif;
+}
+.head{
+    height: 6vh;
+    background-color: #292929;
+}
+#logo{
+    height : 6vh;
+    position:relative;
+    left : 38vh;
+}
+#Login{
+    color: whitesmoke;
+    position:relative;
+    top: -15px;
+    left : 66vw;
+    font-size: 21px;
+}
+.container{
+    width: 1000px;
+    position:relative;
+    left : 18vw;
+}
+#idk{
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.line{
+    border: none;
+    background-color: black;
+    height: 2px;
+}
+.Informatics{
+    margin: 5px;
+    padding: 5px;
+    height: 25vh;
+    width: 45vw;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#username{
+    font-size: large;
+}
+#password{
+    font-size: large;
+}
+.size{
+    font-size: large;
+}
+#button{
+    padding: 5px;
+    font-size: large;
+    height: - 25px;
+    width: 120px;
+    position: relative;
+    left: 0.5vw;
+    top: 2vh;
+}
+.real{
+    text-decoration: none;
+    font-size : large;
+}
+.real1{
+    position: relative;
+    left: 0.5vw;
+}
